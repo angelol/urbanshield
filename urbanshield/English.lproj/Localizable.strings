@@ -1,0 +1,288 @@
+/* Window title */
+"'%@' has been disconnected" = "'%@' has been disconnected";
+
+/* OpenVPN Log message */
+"*Tunnelblick: openvpnstart status #%d: %@" = "*Tunnelblick: openvpnstart status #%1$d: %2$@";
+
+/* Window text */
+"<br><br>Based on Tunnelblick, free software available at <a href=\"http://code.google.com/p/tunnelblick\">http://code.google.com/p/tunnelblick</a>" = "<br><br>Based on Tunnelblick, free software available at <a href=\"http://code.google.com/p/tunnelblick\">http://code.google.com/p/tunnelblick</a>";
+
+/* Connection status */
+"ADD_ROUTES" = "Adding routes";
+
+/* Menu item */
+"About..." = "About…";
+
+/* Window title */
+"Alert" = "Alert";
+
+/* Connection status */
+"ASSIGN_IP" = "Assigning IP address";
+
+/* Connection status */
+"AUTH" = "Authorizing";
+
+/* Window title */
+"Authentication failed" = "Authentication failed";
+
+/* Menu item */
+"Automatically Check for Updates" = "Automatically Check for Updates";
+
+/* Checkbox name */
+"Automatically connect on launch" = "Automatically connect on launch";
+
+/* Button */
+"Cancel" = "Cancel";
+
+/* Menu item */
+"Check For Updates Now" = "Check For Updates Now";
+
+/* Button */
+"Clear log" = "Clear log";
+
+/* Window title */
+"Configuration Change" = "Configuration Change";
+
+/* Window text */
+"Configuration file %@ is on a remote volume . Tunnelblick requires configuration files to be on a local volume for security reasons\n\nDo you want Tunnelblick to create and use a local copy of the configuration file in %@?\n\n(You will need an administrator name and password.)\n" = "Configuration file %1$@ is on a remote volume . Tunnelblick requires configuration files to be on a local volume for security reasons\n\nDo you want Tunnelblick to create and use a local copy of the configuration file in %2$@?\n\n(You will need an administrator name and password.)\n";
+
+/* Button */
+"Connect" = "Connect";
+
+/* Connection status */
+"CONNECTED" = "Connected";
+
+/* Connection status */
+"CONNECTING" = "Connecting";
+
+/* Button */
+"Continue" = "Continue";
+
+/* Window text */
+"Copyright © 2004-2009 Angelo Laub and others. All rights reserved." = "Copyright © 2004-2009 Angelo Laub and others. All rights reserved.";
+
+/* Button */
+"Create copy" = "Create copy";
+
+/* Window title */
+"Create local copy of configuration file?" = "Create local copy of configuration file?";
+
+/* Menu item */
+"Details..." = "Details…";
+
+/* Button */
+"Disconnect" = "Disconnect";
+
+/* Button */
+"Do not restore" = "Do not restore";
+
+/* Checkbox name */
+"Do not warn about this again" = "Do not warn about this again";
+
+/* Window title */
+"Do you wish to connect?" = "Do you wish to connect?";
+
+/* Button */
+"Download" = "Download";
+
+/* Button */
+"Edit configuration" = "Edit configuration";
+
+/* Connection status */
+"EXITING" = "Disconnected";     // Please translate "Disconnected"
+
+/* Connection status */
+"GET_CONFIG" = "Getting configuration";
+
+/* Button */
+"Install and edit sample configuration file" = "Install and edit sample configuration file";
+
+/* Window title */
+"Install and edit sample configuration file?" = "Install and edit sample configuration file?";
+
+/* Window title */
+"Installation failed" = "Installation failed";
+
+/* Window title */
+"Installation or Repair Failed" = "Installation or Repair Failed";
+
+/* Checkbox name */
+"Monitor DNS" = "Monitor DNS";
+
+/* Checkbox name */
+"Monitor WINS" = "Monitor WINS";
+
+/* Checkbox name */
+"Monitor connection" = "Monitor connection";
+
+/* Menu item */
+"Monitor the Configuration Folder" = "Monitor the Configuration Folder";
+
+/* Window text */
+"Multiple simultaneous connections would be created (%d with 'Set nameserver', %d without 'Set nameserver')." = "Multiple simultaneous connections would be created (%1$d with 'Set nameserver', %2$d without 'Set nameserver').";
+
+/* Window title */
+"Not connecting" = "Not connecting";
+
+/* Button */
+"OK" = "OK";
+
+/* Window title */
+"OpenVPN Log Output - Tunnelblick" = "OpenVPN Log Output - Tunnelblick";
+
+/* Menu item */
+"Options" = "Options";
+
+/* Window title */
+"Passphrase" = "Passphrase";
+
+/* Textbox name */
+"Password:" = "Password:";
+
+/* Menu item */
+"Place Icon Near the Spotlight Icon" = "Place Icon Near the Spotlight Icon";
+
+/* Window text */
+"Please copy Tunnelblick.app to the \"/Applications\" folder of your hard drive before launching it." = "Please copy Tunnelblick.app to the \"/Applications\" folder of your hard drive before launching it.";
+
+/* Window text */
+"Please enter VPN passphrase." = "Please enter VPN passphrase.";
+
+/* Window text */
+"Please enter VPN username/password combination." = "Please enter VPN username/password combination.";
+
+/* Window title */
+"Please insert token" = "Please insert token";
+
+/* Window text */
+"Please insert token \"%@\", then click \"OK\"" = "Please insert token \"%@\", then click \"OK\"";
+
+/* Menu item */
+"Preferences" = "Preferences";
+
+/* Menu item
+   Button */
+"Quit" = "Quit";
+
+/* Connection status */
+"RECONNECTING" = "Reconnecting";
+
+/* Button */
+"Remove backup and do not restore" = "Remove backup and do not restore";
+
+/* Button */
+"Restore" = "Restore";
+
+/* Window title */
+"Restore Configuration Settings from Backup?" = "Restore Configuration Settings from Backup?";
+
+/* Checkbox text */
+"Save in Keychain" = "Save in Keychain";
+
+/* Menu item */
+"Send Anonymous System Profile" = "Send Anonymous System Profile";
+
+/* Checkbox name */
+"Set nameserver" = "Set nameserver";
+
+/* Menu item */
+"Show Connection Timers" = "Show Connection Timers";
+
+/* Connection status */
+"SLEEP" = "Waiting for Daemon Process";   // Please translate "Waiting for daemon process"
+
+/* Menu item tooltip */
+"Takes effect at the next check for updates" = "Takes effect at the next check for updates";
+
+/* Menu item tooltip */
+"Takes effect immediately" = "Takes effect immediately";
+
+/* Menu item tooltip */
+"Takes effect the next time Tunnelblick is launched" = "Takes effect the next time Tunnelblick is launched";
+
+/* Menu item tooltip */
+"Takes effect with the next connection" = "Takes effect with the next connection";
+
+/* Window text */
+"The change will take effect the next time you connect." = "The change will take effect the next time you connect.";
+
+/* Window text */
+"The credentials (passphrase or username/password) were not accepted by the remote VPN server." = "The credentials (passphrase or username/password) were not accepted by the remote VPN server.";
+
+/* Window text */
+"The installation, removal, recovery, or repair of one or more Tunnelblick components failed. See the Console Log for details." = "The installation, removal, recovery, or repair of one or more Tunnelblick components failed. See the Console Log for details.";
+
+/* Window text */
+"The passphrase must not be empty!\nPlease enter VPN passphrase." = "The passphrase must not be empty!\nPlease enter VPN passphrase.";
+
+/* Window text */
+"The username and the password must not be empty!\nPlease enter VPN username/password combination." = "The username and the password must not be empty!\nPlease enter VPN username/password combination.";
+
+/* Window text */
+"There are no configuration files in '~/Library/Application Support/Tunnelblick/Configurations/'. Do you wish to install and edit a sample configuration file? If not, you must quit Tunnelblick and put one or more configuration files in ~/Library/Application Support/Tunnelblick/Configurations/ yourself." = "There are no configuration files in '~/Library/Application Support/Tunnelblick/Configurations/'. Do you wish to install and edit a sample configuration file? If not, you must quit Tunnelblick and put one or more configuration files in ~/Library/Application Support/Tunnelblick/Configurations/ yourself.";
+
+/* Window text */
+"This copy of Tunnelblick does not contain any configuration settings. Do you wish to restore the configuration settings from the backup copy?\n\nAn administrator username and password will be required." = "This copy of Tunnelblick does not contain any configuration settings. Do you wish to restore the configuration settings from the backup copy?\n\nAn administrator username and password will be required.";
+
+/* Button */
+"Try again" = "Try again";
+
+/* Button */
+"Try again with different credentials" = "Try again with different credentials";
+
+/* Window title */
+"Tunnelblick Configuration Problem" = "Tunnelblick Configuration Problem";
+
+/* Window text */
+"Tunnelblick could not be launched because of a problem with the configuration. Please examine the Console Log for details." = "Tunnelblick could not be launched because of a problem with the configuration. Please examine the Console Log for details.";
+
+/* Window text */
+"Tunnelblick could not copy the configuration file to the alternate local location. See the Console Log for details." = "Tunnelblick could not copy the configuration file to the alternate local location. See the Console Log for details.";
+
+/* Window text */
+"Tunnelblick could not copy openvpn.conf to %@" = "Tunnelblick could not copy openvpn.conf to %@";
+
+/* Window text */
+"Tunnelblick could not create a folder for the alternate local configuration. See the Console Log for details." = "Tunnelblick could not create a folder for the alternate local configuration. See the Console Log for details.";
+
+/* Window text */
+"Tunnelblick could not repair ownership and permissions of the configuration file. See the Console Log for details." = "Tunnelblick could not repair ownership and permissions of the configuration file. See the Console Log for details.";
+
+/* Window title */
+"Tunnelblick Error" = "Tunnelblick Error";
+
+/* Window text */
+"Tunnelblick has disconnected '%@' because its configuration file has been removed." = "Tunnelblick has disconnected '%@' because its configuration file has been removed.";
+
+/* Status message */
+"Tunnelblick: %d connections active." = "Tunnelblick: %d connections active.";
+
+/* Status message */
+"Tunnelblick: 1 connection active." = "Tunnelblick: 1 connection active.";
+
+/* Menu item */
+"Use Shadow Copies of Configuration Files" = "Use Shadow Copies of Configuration Files";
+
+/* Window title */
+"Username and password" = "Username and password";
+
+/* Textbox name */
+"Username:" = "Username:";
+
+/* Connection status */
+"WAIT" = "Waiting for server response";   // Please translate "Waiting for Server Response"
+
+/* Menu item */
+"Warn About Simultaneous Connections" = "Warn About Simultaneous Connections";
+
+/* Window title */
+"Welcome to Tunnelblick" = "Welcome to Tunnelblick";
+
+/* Window title */
+"You are trying to launch Tunnelblick from the disk image" = "You are trying to launch Tunnelblick from the disk image";
+
+/* Window text */
+"You have removed all configuration files from ~/Library/Application Support/Tunnelblick/Configurations. Do you wish to install and edit a sample configuration file? If not, you must quit Tunnelblick and put one or more configuration files in ~/Library/Application Support/Tunnelblick/Configurations/ yourself." = "You have removed all configuration files from ~/Library/Application Support/Tunnelblick/Configurations. Do you wish to install and edit a sample configuration file? If not, you must quit Tunnelblick and put one or more configuration files in ~/Library/Application Support/Tunnelblick/Configurations/ yourself.";
+
+/* Window text */
+"You must reinstall Tunnelblick. Please move Tunnelblick to the Trash and download a fresh copy. The problem was:\n\n%@" = "You must reinstall Tunnelblick. Please move Tunnelblick to the Trash and download a fresh copy. The problem was:\n\n%@";
